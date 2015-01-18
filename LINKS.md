@@ -4,6 +4,7 @@
 - [install node.js windows](http://nodejs.org/download/)
 - [install node.js mac](http://nodejs.org/download/)
 - [install node.js linux](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
+- [nodeschool](http://nodeschool.io/index.html)
 
 ### mongo
 - [install mongo - windows](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)
