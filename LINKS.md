@@ -25,13 +25,17 @@
 - [Aprendendo MongoDb a partir do Relacional](http://nomadev.com.br/aprendendo-mongodb-a-partir-do-relacional/)
 - [Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
 - [Como mudar seu jeito relacional de pensar - Parte 2](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
+- [Mongo-Hacker](https://github.com/TylerBrock/mongo-hacker) Potencializa o mongo shell
 
 
 ### AngularJS
 - [Diferença entre Service, Factory e Provider](https://gist.github.com/Mithrandir0x/3639232)
+- [Material Design](https://github.com/angular/material)
+- [Http-Server](https://github.com/nodeapps/http-server) Para rodar as app em angularJS
 
 
 ### Express
+- [Express Generator](https://github.com/expressjs/generator)
 - [Diferença entre res.send e res.json](http://nodejsbrasil.com.br/2013/10/09/qual-a-diferenca-entre-res-write-res-send-e-res-json-express/)
 
 
@@ -80,6 +84,24 @@
 ### Livros para ler
 - [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Pro Git](http://git-scm.com/book/pt-br/v1)
+- [MEAN Stack - Casa do Codigo](http://www.casadocodigo.com.br/products/livro-mean)
+
+
+## Deploy
+Algumas informaçoes de como fazer deploy de sua MEAN Stack app
+
+### Linode
+- [Linedo](https://www.linode.com/)
+- [Deploy](http://blog.nodeknockout.com/post/9300619913/countdown-to-ko-14-deploying-your-node-js-app-to)
+
+
+### DigitalOcean
+- [DigitalOcean](https://www.digitalocean.com)
+- [Deploy](https://www.digitalocean.com/community/tutorials/how-to-use-the-mean-one-click-install-image)
+
+
+### Terminal
+- [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) Para instalar ele corretamente, sugiro [esse video](https://www.youtube.com/watch?v=1S3MUVIAieE)
 
 
 #### Links que nao se encaixam nas listas a cima
