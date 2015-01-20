@@ -47,6 +47,7 @@
 - [Reverse Proxy](https://www.npmjs.com/package/node-reverse-proxy)
 - [CORS Server](http://nomadev.com.br/cors-server-em-node-js/)
 - [Como passar parâmetros para um módulo? Com injeção de dependência](http://nomadev.com.br/node-js-como-passar-par%C3%A2metros-para-um-m%C3%B3dulo-inje%C3%A7%C3%A3o-de-dependencia/)
+- [Como criar virtual hosts (vhost) com Node.js?](http://nomadev.com.br/como-criar-virtual-hosts-vhost-com-node-js/)
 
 
 ### MEAN
