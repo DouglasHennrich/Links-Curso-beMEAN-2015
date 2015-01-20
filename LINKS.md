@@ -69,6 +69,13 @@
 - [MochaJS](https://github.com/mochajs/mocha)
 - [ShouldJS](https://github.com/tj/should.js)
 - [Treinar Testes - Fizz Buzz](https://github.com/suissa/Node-FizzBuzz)
+- [Test Runner](http://karma-runner.github.io/0.12/index.html)
+- [sonarqube test coverage](http://www.sonarqube.org/)
+
+#### Behavior Driven Development
+- [intern](http://theintern.io/)
+- [Jasmine](http://jasmine.github.io/)
+- [Jasmine Docs pt-BR](http://ericdouglas.github.io/jasmine-br-docs/)
 
 
 ### The Future
@@ -84,15 +91,23 @@
 
 ### Livros para ler
 - [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
 - [Pro Git](http://git-scm.com/book/pt-br/v1)
 - [MEAN Stack - Casa do Codigo](http://www.casadocodigo.com.br/products/livro-mean)
+- [Full Stack JavaScript Development with MEAN](http://www.amazon.com.br/Full-Stack-JavaScript-Development-English-ebook/dp/B00S4B9VDE/ref=sr_1_3?s=books&ie=UTF8&qid=1421772402&sr=1-3&keywords=mean+stack)
+- [MEAN Web Development](http://www.amazon.com.br/MEAN-Web-Development-Amos-Haviv-ebook/dp/B00NXWI1BM/ref=sr_1_2?s=books&ie=UTF8&qid=1421772402&sr=1-2&keywords=mean+stack)
+- [Write Modern Web Apps with the MEAN Stack](http://www.amazon.com.br/Write-Modern-Apps-MEAN-Stack-ebook/dp/B00NUDN0PG/ref=sr_1_1?s=books&ie=UTF8&qid=1421772402&sr=1-1&keywords=mean+stack)
+- [Getting MEAN](http://www.manning.com/sholmes/)
 
+### Cursos e Screencasts complementares
+- [Building AngularJS and Node.js Apps with the MEAN Stack](http://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
+- [Introdução MEAN Stack](http://www.alura.com.br/cursos-online-front-end#mean)
 
 ## Deploy
 Algumas informaçoes de como fazer deploy de sua MEAN Stack app
 
 ### Linode
-- [Linedo](https://www.linode.com/)
+- [Linode](https://www.linode.com/)
 - [Deploy](http://blog.nodeknockout.com/post/9300619913/countdown-to-ko-14-deploying-your-node-js-app-to)
 
 
