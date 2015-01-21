@@ -57,6 +57,8 @@
 - [Real-Time](http://socket.io/)
 - [Conexao com MongoDB](http://mongoosejs.com/)
 - [MEAN seed](https://github.com/suissa/mean-seed)
+- [MEAN.io](http://mean.io/)
+- [MEAN.js](http://meanjs.org/)
 - [Slides WS no uruguai](http://pt.slideshare.net/suissapg/be-mean-jsconf-uruguay-suissa)
 - [Slides WS janeiro 2015](https://docs.google.com/presentation/d/182_F43Ig4EONS8YXQgE2eNftgDkzHqnTnDB0xDlW118/edit#slide=id.g3052bd5e_0_106)
 
