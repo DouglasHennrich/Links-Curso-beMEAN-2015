@@ -26,6 +26,7 @@
 - [Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
 - [Como mudar seu jeito relacional de pensar - Parte 2](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
 - [Mongo-Hacker](https://github.com/TylerBrock/mongo-hacker) Potencializa o mongo shell
+- [Mongo Management Studio](http://www.litixsoft.de/english/mms/)
 
 
 ### AngularJS
