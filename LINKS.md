@@ -27,12 +27,14 @@
 - [Como mudar seu jeito relacional de pensar - Parte 2](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
 - [Mongo-Hacker](https://github.com/TylerBrock/mongo-hacker) Potencializa o mongo shell
 - [Mongo Management Studio](http://www.litixsoft.de/english/mms/)
+- [Mongoose - Melhores praticas](http://www.infoq.com/br/presentations/melhores-praticas-com-mongoose)
 
 
 ### AngularJS
 - [Diferença entre Service, Factory e Provider](https://gist.github.com/Mithrandir0x/3639232)
 - [Material Design](https://github.com/angular/material)
 - [Http-Server](https://github.com/nodeapps/http-server) Para rodar as app em angularJS
+- [Better way to learn](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
 
 
 ### Express
@@ -49,6 +51,8 @@
 - [CORS Server](http://nomadev.com.br/cors-server-em-node-js/)
 - [Como passar parâmetros para um módulo? Com injeção de dependência](http://nomadev.com.br/node-js-como-passar-par%C3%A2metros-para-um-m%C3%B3dulo-inje%C3%A7%C3%A3o-de-dependencia/)
 - [Como criar virtual hosts (vhost) com Node.js?](http://nomadev.com.br/como-criar-virtual-hosts-vhost-com-node-js/)
+- [Nodemon( essencial )](https://github.com/remy/nodemon)
+- [PM2](https://github.com/Unitech/pm2)
 
 
 ### MEAN
@@ -75,6 +79,7 @@
 - [Test Runner](http://karma-runner.github.io/0.12/index.html)
 - [sonarqube test coverage](http://www.sonarqube.org/)
 
+
 #### Behavior Driven Development
 - [intern](http://theintern.io/)
 - [Jasmine](http://jasmine.github.io/)
@@ -90,6 +95,7 @@
 - [Calcula força da criptografia](http://calc.opensecurityresearch.com/)
 - [BCrypt no PHP](http://blog.thiagobelem.net/criptografando-senhas-no-php-usando-bcrypt-blowfish/)
 - [Json Web Token - JWT](http://code.tutsplus.com/pt/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)
+- [Passport](http://passportjs.org/)
 
 
 ### Livros para ler
@@ -101,6 +107,7 @@
 - [MEAN Web Development](http://www.amazon.com.br/MEAN-Web-Development-Amos-Haviv-ebook/dp/B00NXWI1BM/ref=sr_1_2?s=books&ie=UTF8&qid=1421772402&sr=1-2&keywords=mean+stack)
 - [Write Modern Web Apps with the MEAN Stack](http://www.amazon.com.br/Write-Modern-Apps-MEAN-Stack-ebook/dp/B00NUDN0PG/ref=sr_1_1?s=books&ie=UTF8&qid=1421772402&sr=1-1&keywords=mean+stack)
 - [Getting MEAN](http://www.manning.com/sholmes/)
+
 
 ### Cursos e Screencasts complementares
 - [Building AngularJS and Node.js Apps with the MEAN Stack](http://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
