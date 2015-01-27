@@ -28,13 +28,17 @@
 - [Mongo-Hacker](https://github.com/TylerBrock/mongo-hacker) Potencializa o mongo shell
 - [Mongo Management Studio](http://www.litixsoft.de/english/mms/)
 - [Mongoose - Melhores praticas](http://www.infoq.com/br/presentations/melhores-praticas-com-mongoose)
+- [](http://nomadev.com.br/mongoose-como-criar-um-schema-composto/)
+- [](https://developer.yahoo.com/blogs/ydn/part-1-understanding-event-loops-writing-great-code-11401.html)
 
 
 ### AngularJS
 - [Diferença entre Service, Factory e Provider](https://gist.github.com/Mithrandir0x/3639232)
+- [Criando formulários com AngularJs](http://ericdouglas.github.io/2015/01/25/criando-formularios-com-angularjs/)
 - [Material Design](https://github.com/angular/material)
 - [Http-Server](https://github.com/nodeapps/http-server) Para rodar as app em angularJS
 - [Better way to learn](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
+- [](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
 
 
 ### Express
@@ -53,7 +57,8 @@
 - [Como criar virtual hosts (vhost) com Node.js?](http://nomadev.com.br/como-criar-virtual-hosts-vhost-com-node-js/)
 - [Nodemon( essencial )](https://github.com/remy/nodemon)
 - [PM2](https://github.com/Unitech/pm2)
-
+- [Mongoose testing](http://www.scotchmedia.com/tutorials/express/authentication/1/06)
+- [Understanding event loops](https://developer.yahoo.com/blogs/ydn/part-1-understanding-event-loops-writing-great-code-11401.html)
 
 ### MEAN
 - [Livro de MEAN by Suissa](https://github.com/ericdouglas/be-MEAN-resources)
