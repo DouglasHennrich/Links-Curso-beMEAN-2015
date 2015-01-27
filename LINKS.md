@@ -28,8 +28,8 @@
 - [Mongo-Hacker](https://github.com/TylerBrock/mongo-hacker) Potencializa o mongo shell
 - [Mongo Management Studio](http://www.litixsoft.de/english/mms/)
 - [Mongoose - Melhores praticas](http://www.infoq.com/br/presentations/melhores-praticas-com-mongoose)
-- [](http://nomadev.com.br/mongoose-como-criar-um-schema-composto/)
-- [](https://developer.yahoo.com/blogs/ydn/part-1-understanding-event-loops-writing-great-code-11401.html)
+- [Mongoose - Como criar um schema composto](http://nomadev.com.br/mongoose-como-criar-um-schema-composto/)
+- [understanding event loops writing great code](https://developer.yahoo.com/blogs/ydn/part-1-understanding-event-loops-writing-great-code-11401.html)
 
 
 ### AngularJS
@@ -38,7 +38,7 @@
 - [Material Design](https://github.com/angular/material)
 - [Http-Server](https://github.com/nodeapps/http-server) Para rodar as app em angularJS
 - [Better way to learn](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
-- [](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
+- [angularjs internals in depth](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
 
 
 ### Express
